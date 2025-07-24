@@ -1,6 +1,6 @@
 🌾 Crop Yield Prediction System using Machine Learning 🌾
 
-We have developed a Crop Yield Prediction System 🤖🌱 leveraging supervised machine learning techniques to accurately forecast agricultural output for a specified region. The predictive model utilizes a diverse set of input features including:
+I have developed a Crop Yield Prediction System 🤖🌱 leveraging supervised machine learning techniques to accurately forecast agricultural output for a specified region. The predictive model utilizes a diverse set of input features including:
 
    ↦  📅 Year (temporal indicator of data collection)
 
